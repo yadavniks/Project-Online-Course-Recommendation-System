@@ -1,5 +1,5 @@
 # 🎓 Online Course Recommendation System
-Check Out My Project - https://project-online-course-recommendation-system-95vqkdguoi3czscjyf.streamlit.app/
+Check Out My Project Dashboard - https://project-online-course-recommendation-system-95vqkdguoi3czscjyf.streamlit.app/
 ## 🧠 Project Overview
 The **Online Course Recommendation System** is a **Data Science and Machine Learning project** that helps learners find the most suitable online courses based on their interests, skills, and preferences.  
 It uses **Natural Language Processing (NLP)** and **Machine Learning** to recommend similar courses by analyzing the dataset features such as course name, category, difficulty, instructor, and ratings.
